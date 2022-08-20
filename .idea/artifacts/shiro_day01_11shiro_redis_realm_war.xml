@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="shiro-day01-11shiro-redis-realm:war">
+    <output-path>$PROJECT_DIR$/课程代码/shiro-day01-11shiro-redis-realm/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>shiro-day01-11shiro-redis-realm</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="shiro-day01-11shiro-redis-realm-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="shiro-day01-11shiro-redis-realm:war exploded" />
+    </root>
+  </artifact>
+</component>

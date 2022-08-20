@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="shiro-day01-09web-jsp-taglib:war">
+    <output-path>$PROJECT_DIR$/课程代码/shiro-day01-09web-jsp-taglib/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>shiro-day01-09web-jsp-taglib</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="shiro-day01-09web-jsp-taglib-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="shiro-day01-09web-jsp-taglib:war exploded" />
+    </root>
+  </artifact>
+</component>

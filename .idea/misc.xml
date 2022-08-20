@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/课程代码/shiro-day01-07web" />
+    <file type="web" url="file://$PROJECT_DIR$/课程代码/shiro-day01-08web-java" />
+    <file type="web" url="file://$PROJECT_DIR$/课程代码/shiro-day01-09web-jsp-taglib" />
+    <file type="web" url="file://$PROJECT_DIR$/课程代码/shiro-day01-10springboot-shiro" />
+    <file type="web" url="file://$PROJECT_DIR$/课程代码/shiro-day01-11shiro-redis-realm" />
+    <file type="web" url="file://$PROJECT_DIR$/课程代码/shiro-day01-12shiro-redis-SessionManagerA" />
+    <file type="web" url="file://$PROJECT_DIR$/课程代码/shiro-day01-12shiro-redis-SessionManagerB" />
+    <file type="web" url="file://$PROJECT_DIR$/课程代码/shiro-day01-14shiro-RetryLimit" />
+    <file type="web" url="file://$PROJECT_DIR$/课程代码/shiro-day01-15shiro-KickedOut" />
+    <file type="web" url="file://$PROJECT_DIR$/课程代码/shiro-day01-16shiro-springboot-jwt" />
+    <file type="web" url="file://$PROJECT_DIR$/课程代码/springboot-shiro-mgt" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/课程代码/shiro-day01-07web/pom.xml" />
+        <option value="$PROJECT_DIR$/课程代码/shiro-day01-04hash/pom.xml" />
+        <option value="$PROJECT_DIR$/课程代码/shiro-day01-02realm/pom.xml" />
+        <option value="$PROJECT_DIR$/课程代码/springboot-shiro-mgt/pom.xml" />
+        <option value="$PROJECT_DIR$/课程代码/shiro-day01-08web-java/pom.xml" />
+        <option value="$PROJECT_DIR$/课程代码/springboot-shiro-parent/pom.xml" />
+        <option value="$PROJECT_DIR$/课程代码/springboot-shiro-gateway/pom.xml" />
+        <option value="$PROJECT_DIR$/课程代码/springboot-shiro-handler/pom.xml" />
+        <option value="$PROJECT_DIR$/课程代码/springboot-shiro-dubbo-app/pom.xml" />
+        <option value="$PROJECT_DIR$/课程代码/springboot-shiro-framework/pom.xml" />
+        <option value="$PROJECT_DIR$/课程代码/shiro-day01-01authenticator/pom.xml" />
+        <option value="$PROJECT_DIR$/课程代码/shiro-day01-03encode-decode/pom.xml" />
+        <option value="$PROJECT_DIR$/课程代码/shiro-day01-09web-jsp-taglib/pom.xml" />
+        <option value="$PROJECT_DIR$/课程代码/shiro-day01-15shiro-KickedOut/pom.xml" />
+        <option value="$PROJECT_DIR$/课程代码/shiro-day01-10springboot-shiro/pom.xml" />
+        <option value="$PROJECT_DIR$/课程代码/shiro-day01-14shiro-RetryLimit/pom.xml" />
+        <option value="$PROJECT_DIR$/课程代码/shiro-day01-05-ciphertext-realm/pom.xml" />
+        <option value="$PROJECT_DIR$/课程代码/shiro-day01-11shiro-redis-realm/pom.xml" />
+        <option value="$PROJECT_DIR$/课程代码/shiro-day01-16shiro-springboot-jwt/pom.xml" />
+        <option value="$PROJECT_DIR$/课程代码/shiro-day01-06-authentication-realm/pom.xml" />
+        <option value="$PROJECT_DIR$/课程代码/shiro-day01-12shiro-redis-SessionManagerA/pom.xml" />
+        <option value="$PROJECT_DIR$/课程代码/shiro-day01-12shiro-redis-SessionManagerB/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+</project>

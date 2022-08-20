@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="shiro-day01-12shiro-redis-SessionManagerA:war">
+    <output-path>$PROJECT_DIR$/课程代码/shiro-day01-12shiro-redis-SessionManagerA/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>shiro-day01-12shiro-redis-SessionManagerA</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="shiro-day01-12shiro-redis-SessionManagerA-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="shiro-day01-12shiro-redis-SessionManagerA:war exploded" />
+    </root>
+  </artifact>
+</component>
