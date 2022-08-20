@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Shiro_Demo02.iml" filepath="$PROJECT_DIR$/.idea/Shiro_Demo02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/课程代码/shiro-day01-01authenticator/shiro-day01-01authenticator.iml" filepath="$PROJECT_DIR$/课程代码/shiro-day01-01authenticator/shiro-day01-01authenticator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/课程代码/shiro-day01-02realm/shiro-day01-02realm.iml" filepath="$PROJECT_DIR$/课程代码/shiro-day01-02realm/shiro-day01-02realm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/课程代码/shiro-day01-03encode-decode/shiro-day01-03encode-decode.iml" filepath="$PROJECT_DIR$/课程代码/shiro-day01-03encode-decode/shiro-day01-03encode-decode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/课程代码/shiro-day01-04hash/shiro-day01-04hash.iml" filepath="$PROJECT_DIR$/课程代码/shiro-day01-04hash/shiro-day01-04hash.iml" />
+      <module fileurl="file://$PROJECT_DIR$/课程代码/shiro-day01-05-ciphertext-realm/shiro-day01-05-ciphertext-realm.iml" filepath="$PROJECT_DIR$/课程代码/shiro-day01-05-ciphertext-realm/shiro-day01-05-ciphertext-realm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/课程代码/shiro-day01-06-authentication-realm/shiro-day01-06-authentication-realm.iml" filepath="$PROJECT_DIR$/课程代码/shiro-day01-06-authentication-realm/shiro-day01-06-authentication-realm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/课程代码/shiro-day01-07web/shiro-day01-07web.iml" filepath="$PROJECT_DIR$/课程代码/shiro-day01-07web/shiro-day01-07web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/课程代码/shiro-day01-08web-java/shiro-day01-08web-java.iml" filepath="$PROJECT_DIR$/课程代码/shiro-day01-08web-java/shiro-day01-08web-java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/课程代码/shiro-day01-09web-jsp-taglib/shiro-day01-09web-jsp-taglib.iml" filepath="$PROJECT_DIR$/课程代码/shiro-day01-09web-jsp-taglib/shiro-day01-09web-jsp-taglib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/课程代码/shiro-day01-10springboot-shiro/shiro-day01-10springboot-shiro.iml" filepath="$PROJECT_DIR$/课程代码/shiro-day01-10springboot-shiro/shiro-day01-10springboot-shiro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/课程代码/shiro-day01-11shiro-redis-realm/shiro-day01-11shiro-redis-realm.iml" filepath="$PROJECT_DIR$/课程代码/shiro-day01-11shiro-redis-realm/shiro-day01-11shiro-redis-realm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/课程代码/shiro-day01-12shiro-redis-SessionManagerA/shiro-day01-12shiro-redis-SessionManagerA.iml" filepath="$PROJECT_DIR$/课程代码/shiro-day01-12shiro-redis-SessionManagerA/shiro-day01-12shiro-redis-SessionManagerA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/课程代码/shiro-day01-12shiro-redis-SessionManagerB/shiro-day01-12shiro-redis-SessionManagerB.iml" filepath="$PROJECT_DIR$/课程代码/shiro-day01-12shiro-redis-SessionManagerB/shiro-day01-12shiro-redis-SessionManagerB.iml" />
+      <module fileurl="file://$PROJECT_DIR$/课程代码/shiro-day01-14shiro-RetryLimit/shiro-day01-14shiro-RetryLimit.iml" filepath="$PROJECT_DIR$/课程代码/shiro-day01-14shiro-RetryLimit/shiro-day01-14shiro-RetryLimit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/课程代码/shiro-day01-15shiro-KickedOut/shiro-day01-15shiro-KickedOut.iml" filepath="$PROJECT_DIR$/课程代码/shiro-day01-15shiro-KickedOut/shiro-day01-15shiro-KickedOut.iml" />
+      <module fileurl="file://$PROJECT_DIR$/课程代码/shiro-day01-16shiro-springboot-jwt/shiro-day01-16shiro-springboot-jwt.iml" filepath="$PROJECT_DIR$/课程代码/shiro-day01-16shiro-springboot-jwt/shiro-day01-16shiro-springboot-jwt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/课程代码/springboot-shiro-dubbo-app/springboot-shiro-dubbo-app.iml" filepath="$PROJECT_DIR$/课程代码/springboot-shiro-dubbo-app/springboot-shiro-dubbo-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/课程代码/springboot-shiro-dubbo-app/springboot-shiro-dubbo-app-core/springboot-shiro-dubbo-app-core.iml" filepath="$PROJECT_DIR$/课程代码/springboot-shiro-dubbo-app/springboot-shiro-dubbo-app-core/springboot-shiro-dubbo-app-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/课程代码/springboot-shiro-dubbo-app/springboot-shiro-dubbo-app-face/springboot-shiro-dubbo-app-face.iml" filepath="$PROJECT_DIR$/课程代码/springboot-shiro-dubbo-app/springboot-shiro-dubbo-app-face/springboot-shiro-dubbo-app-face.iml" />
+      <module fileurl="file://$PROJECT_DIR$/课程代码/springboot-shiro-dubbo-app/springboot-shiro-dubbo-app-handler/springboot-shiro-dubbo-app-handler.iml" filepath="$PROJECT_DIR$/课程代码/springboot-shiro-dubbo-app/springboot-shiro-dubbo-app-handler/springboot-shiro-dubbo-app-handler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/课程代码/springboot-shiro-dubbo-app/springboot-shiro-dubbo-app-service/springboot-shiro-dubbo-app-service.iml" filepath="$PROJECT_DIR$/课程代码/springboot-shiro-dubbo-app/springboot-shiro-dubbo-app-service/springboot-shiro-dubbo-app-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/课程代码/springboot-shiro-handler/springboot-shiro-face/springboot-shiro-face.iml" filepath="$PROJECT_DIR$/课程代码/springboot-shiro-handler/springboot-shiro-face/springboot-shiro-face.iml" />
+      <module fileurl="file://$PROJECT_DIR$/课程代码/springboot-shiro-framework/springboot-shiro-framework.iml" filepath="$PROJECT_DIR$/课程代码/springboot-shiro-framework/springboot-shiro-framework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/课程代码/springboot-shiro-framework/springboot-shiro-framework-client/springboot-shiro-framework-client.iml" filepath="$PROJECT_DIR$/课程代码/springboot-shiro-framework/springboot-shiro-framework-client/springboot-shiro-framework-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/课程代码/springboot-shiro-framework/springboot-shiro-framework-commons/springboot-shiro-framework-commons.iml" filepath="$PROJECT_DIR$/课程代码/springboot-shiro-framework/springboot-shiro-framework-commons/springboot-shiro-framework-commons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/课程代码/springboot-shiro-framework/springboot-shiro-framework-core/springboot-shiro-framework-core.iml" filepath="$PROJECT_DIR$/课程代码/springboot-shiro-framework/springboot-shiro-framework-core/springboot-shiro-framework-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/课程代码/springboot-shiro-framework/springboot-shiro-framework-dao/springboot-shiro-framework-dao.iml" filepath="$PROJECT_DIR$/课程代码/springboot-shiro-framework/springboot-shiro-framework-dao/springboot-shiro-framework-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/课程代码/springboot-shiro-framework/springboot-shiro-framework-mybatis-generator/springboot-shiro-framework-mybatis-generator.iml" filepath="$PROJECT_DIR$/课程代码/springboot-shiro-framework/springboot-shiro-framework-mybatis-generator/springboot-shiro-framework-mybatis-generator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/课程代码/springboot-shiro-framework/springboot-shiro-framework-service/springboot-shiro-framework-service.iml" filepath="$PROJECT_DIR$/课程代码/springboot-shiro-framework/springboot-shiro-framework-service/springboot-shiro-framework-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/课程代码/springboot-shiro-gateway/springboot-shiro-gateway.iml" filepath="$PROJECT_DIR$/课程代码/springboot-shiro-gateway/springboot-shiro-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/课程代码/springboot-shiro-gateway/springboot-shiro-gateway-handler/springboot-shiro-gateway-handler.iml" filepath="$PROJECT_DIR$/课程代码/springboot-shiro-gateway/springboot-shiro-gateway-handler/springboot-shiro-gateway-handler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/课程代码/springboot-shiro-gateway/springboot-shiro-gateway-service/springboot-shiro-gateway-service.iml" filepath="$PROJECT_DIR$/课程代码/springboot-shiro-gateway/springboot-shiro-gateway-service/springboot-shiro-gateway-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/课程代码/springboot-shiro-handler/springboot-shiro-handler.iml" filepath="$PROJECT_DIR$/课程代码/springboot-shiro-handler/springboot-shiro-handler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/课程代码/springboot-shiro-mgt/springboot-shiro-mgt.iml" filepath="$PROJECT_DIR$/课程代码/springboot-shiro-mgt/springboot-shiro-mgt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/课程代码/springboot-shiro-parent/springboot-shiro-parent.iml" filepath="$PROJECT_DIR$/课程代码/springboot-shiro-parent/springboot-shiro-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/课程代码/springboot-shiro-handler/springboot-shiro-producer/springboot-shiro-producer.iml" filepath="$PROJECT_DIR$/课程代码/springboot-shiro-handler/springboot-shiro-producer/springboot-shiro-producer.iml" />
+    </modules>
+  </component>
+</project>
