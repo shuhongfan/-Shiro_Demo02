@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
   <component name="FrameworkDetectionExcludesConfiguration">
     <file type="web" url="file://$PROJECT_DIR$/课程代码/shiro-day01-07web" />
     <file type="web" url="file://$PROJECT_DIR$/课程代码/shiro-day01-08web-java" />
@@ -38,6 +39,12 @@
         <option value="$PROJECT_DIR$/课程代码/shiro-day01-06-authentication-realm/pom.xml" />
         <option value="$PROJECT_DIR$/课程代码/shiro-day01-12shiro-redis-SessionManagerA/pom.xml" />
         <option value="$PROJECT_DIR$/课程代码/shiro-day01-12shiro-redis-SessionManagerB/pom.xml" />
+        <option value="$PROJECT_DIR$/shiro-01authenticator/pom.xml" />
+        <option value="$PROJECT_DIR$/shiro-02realm/pom.xml" />
+        <option value="$PROJECT_DIR$/shiro-03encodeDecode/pom.xml" />
+        <option value="$PROJECT_DIR$/shiro-04hash/pom.xml" />
+        <option value="$PROJECT_DIR$/shiro-05ciphertext-realm/pom.xml" />
+        <option value="$PROJECT_DIR$/shiro-06authentication-realm/pom.xml" />
       </list>
     </option>
   </component>
